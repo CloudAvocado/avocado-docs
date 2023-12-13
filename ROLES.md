@@ -8,7 +8,7 @@
 | View Users                         | ✓ (All Users)                | ✓ (Own Team Users / Unassigned Users)         | ✓ (Own Team Users)                            | ✓ (All Users)     |
 | Invite User                        | ✓                            | ✗                                             | ✗                                             | ✗                 |
 | Assign/Unassing User Team          | ✓ (All Users)                | ✓ (Own Team Users / Unassigned Users)         | ✗                                             | ✗                 |
-| Change User Role                   | ✓ (All Users but themselves) | ✗                                             | ✗                                             | ✓                 |
+| Change User Role                   | ✓ (All Users but themselves) | ✗                                             | ✗                                             | ✗                 |
 | Delete User                        | ✓ (All Users)                | ✗                                             | ✗                                             | ✗                 |
 | **Teams**                          |                              |                                               |                                               |                   |
 | View Teams                         | ✓ (All Teams)                | ✓ (Own Team)                                  | ✓ (Own Team)                                  | ✓ (All Teams)     |
