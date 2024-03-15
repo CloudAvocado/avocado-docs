@@ -28,7 +28,7 @@
 | Assign/Unassign Resource Tag       | ✓ (All Resources)            | ✓ (Own Team Resources / Unassigned Resources) | ✓ (Own Team Resources / Unassigned Resources) | ✗                 |
 | Start/Stop Resource                | ✓ (All Resources)            | ✓ (Own Team Resources / Unassigned Resources) | ✓ (Own Team Resources / Unassigned Resources) | ✗                 |
 | **Schedules**                      |                              |                                               |                                               |                   |
-| View Schedules                     | ✓ (All Schedules)            | ✓ (Own Team Schedules / Unassigned Schedules) | ✓ (Own Team Schedules / Unassigned Schedules) | ✓ (All Schedules) |
+| View Schedules                     | ✓ (All Schedules)            | ✓ (Own Team Schedules / Shared Schedules)     | ✓ (Own Team Schedules / Shared Schedules)     | ✓ (All Schedules) |
 | Create Schedule                    | ✓                            | ✓ (Own Team Schedules)                        | ✗                                             | ✗                 |
 | Edit Schedule                      | ✓ (All Schedules)            | ✓ (Own Team Schedules)                        | ✗                                             | ✗                 |
 | Suspend Schedule                   | ✓ (All Schedules)            | ✓ (Own Team Schedules)                        | ✓ (Own Team Schedules)                        | ✗                 |
